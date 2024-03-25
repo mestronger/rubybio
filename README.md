@@ -1,2 +1,2 @@
-# rubybio
-Membuat bio data menggunakan Ruby
+# hack prank
+hanya prank hiburan semata
